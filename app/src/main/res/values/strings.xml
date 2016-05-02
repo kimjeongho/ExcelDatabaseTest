@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ExcelDatabaseTest</string>
+    <string name="send_to">Send to...</string>
 </resources>
